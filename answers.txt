@@ -7,5 +7,11 @@ Q2: What field could data science be applied to? Give an Example.
 Answer: Data science could be applied to ecology. For example, you could use data science to 
 observe the growth/decline in keystone species in an ecosystem and track general biodiversity.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging considers all history in commits, whereas rebasing moves commits to the most
+updated version of the branch.
+
 Q4: What are you looking forward to this semester?
+
 Answer: I'm looking forward to learning!
